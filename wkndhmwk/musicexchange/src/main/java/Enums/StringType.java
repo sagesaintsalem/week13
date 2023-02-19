@@ -1,0 +1,10 @@
+package Enums;
+
+public enum StringType {
+    ELECTRICGUITAR,
+    ACOUSTICGUITAR,
+    SPANISHGUITAR,
+    BASSGUITAR,
+    FIVESTRINGBASS,
+    TWELVESTRINGGUITAR;
+}
